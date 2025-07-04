@@ -13,7 +13,7 @@ plt.rcParams.update({
 	"legend.fontsize": 12,
 })
 
-line_styles = {20: (0, (5, 2, 1, 2, 1, 2)), 40: "--", 80: "-.", 160: ":"}
+line_styles = {20: "--", 40: "-." , 80: (0, (5, 2, 1, 2, 1, 2)) , 160: ":"}
 colors = {
 	"Ue": "cornflowerblue",
 	"Ui1": "darkorchid",
